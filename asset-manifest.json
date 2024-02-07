@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/react-practices/static/css/main.f855e6bc.css",
-    "main.js": "/react-practices/static/js/main.67b36532.js",
+    "main.css": "/react-practices/static/css/main.de84ae06.css",
+    "main.js": "/react-practices/static/js/main.59021768.js",
     "static/js/592.b32b74de.chunk.js": "/react-practices/static/js/592.b32b74de.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-practices/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react-practices/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-practices/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-practices/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-practices/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/profile.jpg": "/react-practices/static/media/profile.f92c728558bfbfa735e6.jpg",
     "index.html": "/react-practices/index.html",
-    "main.f855e6bc.css.map": "/react-practices/static/css/main.f855e6bc.css.map",
-    "main.67b36532.js.map": "/react-practices/static/js/main.67b36532.js.map",
+    "main.de84ae06.css.map": "/react-practices/static/css/main.de84ae06.css.map",
+    "main.59021768.js.map": "/react-practices/static/js/main.59021768.js.map",
     "592.b32b74de.chunk.js.map": "/react-practices/static/js/592.b32b74de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.67b36532.js"
+    "static/css/main.de84ae06.css",
+    "static/js/main.59021768.js"
   ]
 }
