@@ -1,6 +1,7 @@
 // components/Navbar/index.js
 
 import React from "react";
+
 import {
 	Nav,
 	NavLink,
@@ -13,24 +14,27 @@ import {
 const Navbar = () => {
 	return (
 		<>
-			<Nav>
+			<Nav style={{'display':'none'}}>
 				<Bars />
 
 				<NavMenu>
-					<NavLink to="/about" >
+					<NavLink to="/react-practices/" >
+						Home
+					</NavLink>
+					<NavLink to="/react-practices/about" >
 						About
 					</NavLink>
-					<NavLink to="/blogs" activeStyle>
+					<NavLink to="/react-practices/blogs" activeStyle>
 						Blogs
 					</NavLink>
-					<NavLink to="/sign-up" activeStyle>
+					<NavLink to="/react-practices/sign-up" activeStyle>
 						Sign Up
 					</NavLink>
 					{/* Second Nav */}
 					{/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
 				</NavMenu>
 				<NavBtn>
-					<NavBtnLink to="/signin">
+					<NavBtnLink to="/react-practices/signin">
 						Sign In
 					</NavBtnLink>
 				</NavBtn>

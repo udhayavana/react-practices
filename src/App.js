@@ -18,11 +18,11 @@ function App() {
 		<Router>
 			<Navbar />
 			<Routes>
-				<Route path="/" element={<Home />} />
-				<Route path="/about" element={<About />} />
-				<Route path="/blogs" element={<Blogs />} />
+				<Route path="/react-practices/" element={<Home />} />
+				<Route path="/react-practices/about" element={<About />} />
+				<Route path="/react-practices/blogs" element={<Blogs />} />
 				<Route
-					path="/sign-up"
+					path="/react-practices/sign-up"
 					element={<SignUp />}
 				/>
 			</Routes>
